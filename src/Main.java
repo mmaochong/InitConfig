@@ -9,5 +9,6 @@ public class Main {
         System.out.println("版本1.5");
         System.out.println("分支版本1.5");
         System.out.println("分支结束");
+        System.out.println("拉取代码");
     }
 }
